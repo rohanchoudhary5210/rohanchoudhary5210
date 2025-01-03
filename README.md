@@ -163,5 +163,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+<br>
+<a href="https://app.daily.dev/rohanchoudhary5210"><img src="https://api.daily.dev/devcards/v2/EAf33A6erru1B0nX3Iy18.png?type=wide&r=ec9" width="652" alt="Rohan Choudhary's Dev Card"/></a>
 
 ###
