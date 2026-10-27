@@ -1,169 +1,74 @@
-<h1 align="left">Hello👋 I'm  Rohan !!!</h1>
+<h1 align="left">Hi, I'm Rohan 👋</h1>
 
-###
+<p align="left"><b>Game Developer & Software Engineer.</b> I build games, and the tools that make games easier to build.</p>
 
-<p align="left">I am a pre-final year B.Tech student from Kolkata, India, with a strong passion for Data Science and UI/UX Design. I thrive on solving complex problems and translating them into intuitive, user-friendly, and aesthetically appealing designs. My academic background and hands-on experience allow me to merge technical skills with creativity, providing solutions that are both functional and visually stunning.<br><br>As a UI/UX Designer, I focus on crafting user interfaces that are not only attractive but also highly functional, ensuring that users have a seamless and engaging experience. I strive to add a personal touch to each project, tailoring designs to reflect the unique identity and message of the brand. My goal is to ensure that every design I create aligns with the brand’s vision while keeping the user experience at the forefront.<br><br>In my career, I’ve had the opportunity to work on UI designs for several renowned brands, where I’ve honed my ability to create designs that are both impactful and easy to use. Whether it’s a mobile app or a website, I aim to combine aesthetics with practicality, resulting in designs that stand out and are easy for users to navigate and enjoy.</p>
-
-###
+- 🎮 **Game Developer L1 at GAMEWISE (Capsitech)**: promoted from intern within a year, shipping games in Godot and Unity
+- 🔓 **Open source**: merged [PR #497](https://github.com/GodotNuts/GodotFirebase/pull/497) to GodotFirebase, adding Google Play Games sign-in
+- 🤖 **AI-native**: I build with AI coding agents and review every line before it ships
+- 🎓 B.Tech in Computer Science (Data Science), Haldia Institute of Technology, 2026
+- 💼 Open to **Game Developer** and **Software Engineer** roles · [rohanz.netlify.app](https://rohanz.netlify.app)
 
 <img src="https://raw.githubusercontent.com/rohanchoudhary5210/rohanchoudhary5210/output/snake.svg" alt="Snake animation" />
 
-###
-<h2 align="left">About Me 👨‍💻 🛠</h2>
+<h2 align="left">🛠️ Featured work</h2>
 
-### - I'm 21 years old Machine Learning & Artificial Intelligence Enthusiast and a UI/UX Designer from India.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Build & Bounce**](https://github.com/rohanchoudhary5210/BuildAndBounce) | 3D platformer with an in-game level builder, share codes, and ghost racing. Playable on touch, gamepad, and keyboard. | Unity 6, C#, Firebase REST |
+| [**Paisa Dekh / SalaryQuest**](https://github.com/rohanchoudhary5210/Piasa-Dekh) *(in progress)* | Gamified budgeting app: daily budgets from your salary, on-device UPI/SMS parsing, streaks and quests. 148 tests. | Flutter, Riverpod, Drift (SQLite) |
+| [**Sprite StaticBody Builder**](https://github.com/rohanchoudhary5210/sprite_staticbody_builder) | Godot 4 plugin: one click turns any 2D sprite into a StaticBody2D with pixel-accurate collision. | Godot 4, GDScript |
+| [**Asset Dependency Visualizer**](https://github.com/rohanchoudhary5210/asset-dependency-visualizer) | Godot 4 plugin that graphs asset dependencies and finds cycles (Tarjan's SCC), duplicates (SHA-256), and unused files. | Godot 4, GDScript |
+| [**Localization Package**](https://github.com/rohanchoudhary5210/Localization-Package) | Drop-in Unity localization for 6 languages with runtime switching and one-click scene setup. | Unity, C# |
+| [**FairTag**](https://github.com/rohanchoudhary5210/fairtag-user) | NFT-based FASTag toll payments. 🥉 3rd prize at Hackatron 2K25. | React, TypeScript, Solidity |
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/user-attachments/assets/99c3a4c7-1d86-4c36-a4bd-b23ea46df54a">
-
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative AI
-- ✨ Machine Learning
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Designing
-
-</br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanchoudhary5210&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanchoudhary5210&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-</br>
-
-<h2 align="left">Languages & Tools 👨‍💻 🛠</h2>
-
-###
+<h2 align="left">🧰 Tech I use</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
-###
-
-<h2 align="left">Contact me 📞</h2>
-
-###
-
-<p align="left">If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
-
-###
+<h2 align="left">📊 GitHub stats</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rohanchoudhary5210/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/rohanchoudhary5210" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="https://twitter.com/Rohan51363161" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@rohanz5210" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="rohan5210work@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanchoudhary5210&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanchoudhary5210&layout=compact&card_width=320&langs_count=6&theme=dracula" height="150" alt="Top languages" />
 </div>
-<br>
-<a href="https://app.daily.dev/rohanchoudhary5210"><img src="https://api.daily.dev/devcards/v2/EAf33A6erru1B0nX3Iy18.png?type=wide&r=ec9" width="652" alt="Rohan Choudhary's Dev Card"/></a>
 
-###
+<h2 align="left">📫 Reach me</h2>
+
+<div align="left">
+  <a href="https://rohanz.netlify.app" target="_blank">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/rohanchoudhary5210/" target="_blank">LinkedIn</a> ·
+  <a href="mailto:rohan5210work@gmail.com">rohan5210work@gmail.com</a> ·
+  <a href="https://leetcode.com/Rohan5210/" target="_blank">LeetCode</a>
+</div>
