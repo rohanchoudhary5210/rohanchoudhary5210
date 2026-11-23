@@ -15,10 +15,11 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Build & Bounce**](https://github.com/rohanchoudhary5210/BuildAndBounce) | 3D platformer with an in-game level builder, share codes, and ghost racing. Playable on touch, gamepad, and keyboard. | Unity 6, C#, Firebase REST |
-| [**Paisa Dekh / SalaryQuest**](https://github.com/rohanchoudhary5210/Piasa-Dekh) *(in progress)* | Gamified budgeting app: daily budgets from your salary, on-device UPI/SMS parsing, streaks and quests. 148 tests. | Flutter, Riverpod, Drift (SQLite) |
+| [**Paisa Dekh / SalaryQuest**](https://github.com/rohanchoudhary5210/Piasa-Dekh) *(in progress)* | Gamified budgeting app: daily budgets from your salary, on-device UPI/SMS parsing, streaks and quests. 160 tests. | Flutter, Riverpod, Drift (SQLite) |
 | [**Sprite StaticBody Builder**](https://github.com/rohanchoudhary5210/sprite_staticbody_builder) | Godot 4 plugin: one click turns any 2D sprite into a StaticBody2D with pixel-accurate collision. | Godot 4, GDScript |
 | [**Asset Dependency Visualizer**](https://github.com/rohanchoudhary5210/asset-dependency-visualizer) | Godot 4 plugin that graphs asset dependencies and finds cycles (Tarjan's SCC), duplicates (SHA-256), and unused files. | Godot 4, GDScript |
 | [**Localization Package**](https://github.com/rohanchoudhary5210/Localization-Package) | Drop-in Unity localization for 6 languages with runtime switching and one-click scene setup. | Unity, C# |
+| [**ExplainMyStack**](https://github.com/rohanchoudhary5210/ExplainMyStack) | Chrome extension + FastAPI service that explains any GitHub file with an LLM, with request validation, tests and CI. | Python, FastAPI, JavaScript |
 | [**FairTag**](https://github.com/rohanchoudhary5210/fairtag-user) | NFT-based FASTag toll payments. 🥉 3rd prize at Hackatron 2K25. | React, TypeScript, Solidity |
 
 <h2 align="left">🧰 Tech I use</h2>
