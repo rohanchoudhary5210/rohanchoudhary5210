@@ -22,6 +22,12 @@
 | [**ExplainMyStack**](https://github.com/rohanchoudhary5210/ExplainMyStack) | Chrome extension + FastAPI service that explains any GitHub file with an LLM, with request validation, tests and CI. | Python, FastAPI, JavaScript |
 | [**FairTag**](https://github.com/rohanchoudhary5210/fairtag-user) | NFT-based FASTag toll payments. 🥉 3rd prize at Hackatron 2K25. | React, TypeScript, Solidity |
 
+<h2 align="left">🤝 Open source contributions</h2>
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [**GodotFirebase**](https://github.com/GodotNuts/GodotFirebase), the Firebase SDK for Godot | [PR #497](https://github.com/GodotNuts/GodotFirebase/pull/497): added Google Play Games sign-in. Found why the shared OAuth request failed for this provider, built a `PlayGamesProvider` class and refactored login into provider-specific requests using the OAuth 2.0 authorization-code flow. | ✅ Merged (May 2026) |
+
 <h2 align="left">🧰 Tech I use</h2>
 
 <div align="left">
